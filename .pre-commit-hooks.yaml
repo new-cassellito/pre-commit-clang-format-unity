@@ -1,5 +1,5 @@
 -   id: clang-format
-    name: clang-format
+    name: Format C# and HLSL
     description: Format files with ClangFormat.
     entry: clang-format -i
     language: system
